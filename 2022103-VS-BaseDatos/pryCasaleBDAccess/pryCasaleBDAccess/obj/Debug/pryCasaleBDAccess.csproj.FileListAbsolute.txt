@@ -1,0 +1,10 @@
+D:\Escritorio\pryCasaleBDAccess\pryCasaleBDAccess\bin\Debug\pryCasaleBDAccess.exe.config
+D:\Escritorio\pryCasaleBDAccess\pryCasaleBDAccess\bin\Debug\pryCasaleBDAccess.exe
+D:\Escritorio\pryCasaleBDAccess\pryCasaleBDAccess\bin\Debug\pryCasaleBDAccess.pdb
+D:\Escritorio\pryCasaleBDAccess\pryCasaleBDAccess\obj\Debug\pryCasaleBDAccess.csproj.AssemblyReference.cache
+D:\Escritorio\pryCasaleBDAccess\pryCasaleBDAccess\obj\Debug\pryCasaleBDAccess.frmPrincipal.resources
+D:\Escritorio\pryCasaleBDAccess\pryCasaleBDAccess\obj\Debug\pryCasaleBDAccess.Properties.Resources.resources
+D:\Escritorio\pryCasaleBDAccess\pryCasaleBDAccess\obj\Debug\pryCasaleBDAccess.csproj.GenerateResource.cache
+D:\Escritorio\pryCasaleBDAccess\pryCasaleBDAccess\obj\Debug\pryCasaleBDAccess.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryCasaleBDAccess\pryCasaleBDAccess\obj\Debug\pryCasaleBDAccess.exe
+D:\Escritorio\pryCasaleBDAccess\pryCasaleBDAccess\obj\Debug\pryCasaleBDAccess.pdb
